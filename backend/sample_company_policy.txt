@@ -1,0 +1,13 @@
+IntelliCorp Customer Support Policy — Effective January 2024
+
+Return Window Policy:
+All physical products purchased from IntelliCorp may be returned within 14 calendar days of delivery for a full refund, provided the item is in its original packaging with all accessories, manuals, and seals intact. Software licenses, digital downloads, and gift cards are non-returnable once the license key has been delivered or the download has been initiated. Returns initiated after the 14-day window will be evaluated on a case-by-case basis and may be eligible for store credit only. Customers must initiate returns through the self-service portal or by contacting support with their order number.
+
+Hardware Warranty:
+All IntelliCorp hardware products carry a 1-Year Limited Warranty from the date of purchase covering manufacturing defects in materials and workmanship under normal use. The warranty does not cover damage caused by accidents, liquid exposure, unauthorized modifications, use with incompatible third-party accessories, or normal wear and tear. To file a warranty claim, customers must provide proof of purchase and a description of the defect. Approved claims will be resolved via repair, replacement, or refund at IntelliCorp's discretion. Warranty service requires a valid RMA number issued by support.
+
+Refund Processing Times:
+Once a return is received and inspected at our warehouse (typically 3-5 business days after delivery), refunds are processed according to the original payment method: UPI and digital wallet refunds are credited within 24 hours of inspection approval; credit and debit card refunds appear on the customer's statement within 5-7 business days; bank transfers and store credits are issued within 3 business days. Refund status can be tracked in the order history section of the customer portal. Partial refunds may apply if items are returned incomplete or damaged.
+
+Order Cancellation Rules:
+Orders can be cancelled free of charge at any time before the status changes to "Shipped" — typically within 1-2 hours of placement during business hours. Once an order has shipped, it cannot be cancelled; the customer must instead initiate a return upon delivery following the standard return policy. Custom-configured hardware, personalized items, and made-to-order products cannot be cancelled once production has begun. To request a cancellation, customers should contact support immediately with their order number.
